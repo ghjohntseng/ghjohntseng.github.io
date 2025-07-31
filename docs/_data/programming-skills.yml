@@ -1,11 +1,14 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- group: Languages
+  skills: [Python, SQL, JavaScript]
 
-- name: Go
-  percentage: 80
-  color:
+- group: Data Science & ML
+  skills: [Pandas, Scikit-learn, XGBoost, TensorFlow, FastText]
 
-- name: Python
-  percentage: 70
-  color: secondary
+- group: Data Engineering
+  skills: [MySQL, SQL Server, MongoDB, AWS, Docker]
+
+- group: Visualization
+  skills: [Matplotlib, Seaborn, Tableau, Power BI]
+
+- group: Tools
+  skills: [Git, Jupyter Notebook, VS Code, Spring Boot]
