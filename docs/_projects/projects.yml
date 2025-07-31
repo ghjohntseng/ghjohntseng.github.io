@@ -1,0 +1,23 @@
+- name: TSLA Stock Pattern Recognition
+  url: https://github.com/ghjohntseng/TSLA-Stock-Anaylsis
+  description: Auto-detects triangle patterns, support/resistance, and MACD golden cross, with backtesting and alerts
+
+- name: Stock Technical CLI Tool
+  url: https://github.com/ghjohntseng/stock-tech-analyzer
+  description: CLI-based visualization tool for K-line charts with RSI, MACD, Bollinger Bands, and price channels
+
+- name: Smart Money (Bill Split)
+  url: https://github.com/ghjohntseng/Bill_Split
+  description: A SpringBoot-based app to track shared expenses and group balances with housemates or travel buddies
+
+- name: Credit Risk Prediction
+  url: https://github.com/ghjohntseng/Customer_Credit_Risk_Prediction
+  description: Predicting customer credit risk using classification models and feature importance analysis
+
+- name: Telco Churn Prediction
+  url: https://github.com/ghjohntseng/Telco-Customers-Churn-Segmentation-and-Prediction
+  description: Customer segmentation + churn prediction with data preprocessing and ML models
+
+- name: Neural Machine Translation
+  url: https://github.com/ghjohntseng/Neural-Translation-Machine-from-ZH-to-EN
+  description: Seq2seq GRU-based NMT model with Attention + Beam Search to translate ZH → EN microblogs
