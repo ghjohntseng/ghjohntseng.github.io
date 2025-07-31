@@ -5,3 +5,15 @@
 - name: Adobe Illustrator
   percentage: 90
   color: success
+
+- group: Languages
+  skills: [Python, SQL, JavaScript]
+
+- group: Data Science
+  skills: [Pandas, Scikit-learn, XGBoost, TensorFlow]
+
+- group: Visualization
+  skills: [Matplotlib, Seaborn, Tableau, Power BI]
+
+- group: Tools
+  skills: [Git, Docker, AWS, Jupyter]
